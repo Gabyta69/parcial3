@@ -98,7 +98,7 @@ public class Municipios implements Serializable {
 
     @Override
     public String toString() {
-        return "com.example.parcial3.modelos.Municipios[ id=" + id + " ]";
+        return "com.example.parcial3.modelos.Municipios[ id=" + id + " ]"; //..
     }
     
 }
